@@ -1,0 +1,7 @@
+name             'hwrp'
+maintainer       'The Authors'
+maintainer_email 'you@example.com'
+license          'all_rights'
+description      'Installs/Configures hwrp'
+long_description 'Installs/Configures hwrp'
+version          '0.0.1'
